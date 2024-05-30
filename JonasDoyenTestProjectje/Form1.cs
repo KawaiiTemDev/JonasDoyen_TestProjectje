@@ -15,6 +15,12 @@ namespace JonasDoyenTestProjectje
         public Form1()
         {
             InitializeComponent();
+            this.BackColor = Color.Yellow;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
