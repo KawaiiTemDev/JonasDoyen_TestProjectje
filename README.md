@@ -4,3 +4,5 @@
 <br>
 <i>Mvg,
 Jonas Doyen</i>
+
+<b>YOU ARE A NIGGER</b>
